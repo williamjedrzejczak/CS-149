@@ -1,0 +1,2 @@
+WORDS Sample Collection
+This is a test collection.
